@@ -4,3 +4,5 @@ Solution of the famous Dining Philosophers concurrency problem, using threads an
 ## Authors
 * **João Vasconcelos**: [jmnmv12](https://github.com/jmnmv12/)
 * **Tiago Mendes**: [tiagocmendes](https://github.com/tiagocmendes/)
+
+**December, 2018 - Universidade de Aveiro**
